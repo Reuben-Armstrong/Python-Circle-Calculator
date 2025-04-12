@@ -37,47 +37,6 @@ Perfect for students learning Python, math, or preparing for GCSE Computer Scien
 
 ---
 
-## 📷 Example Output
-
-------------------------------------------------------------------------------
-Circle Calculator
-------------------------------------------------------------------------------
-What would you like to do?:
-------------------------------------------------------------------------------
-[1] Calculate the Circumference of a Circle
-[2] Calculate the Area of a Circle
-------------------------------------------------------------------------------
-
-Please choose 1 or 2: 1
-
-------------------------------------------------------------------------------
-What are you calculating the Circumference of a Circle from?:
-------------------------------------------------------------------------------
-[1] Radius
-[2] Diameter
-------------------------------------------------------------------------------
-
-Please choose 1 or 2: 1
-
-What is your radius in cm?: 20.75
-
-------------------------------------------------------------------------------
-You chose to Calculate the Circumference of a circle.
-Your Answer is: 130.376 cm rounded to 3 D.P.
-------------------------------------------------------------------------------
-
-Press the Enter Key to Exit...
-
----
-
-## 📁 File Structure
-
-circle_calculator/
-├── circle_calculator.py
-└── README.md
-
----
-
 ## 💡 Ideas for Improvement
 
 - Add a GUI version using tkinter
