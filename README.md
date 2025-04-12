@@ -37,12 +37,11 @@ Perfect for students learning Python, math, or preparing for GCSE Computer Scien
 
 ---
 
-## 💡 Ideas for Improvement
+## 🚀 Ideas for Improvement
 
-- Add a GUI version using tkinter
-- Export results to a .txt or .csv file
-- Add support for other shapes (e.g. squares, triangles)
-- Include unit tests
+- Add GUI with tkinter
+- Save results to a file
+- Add support for different units
 
 ---
 
