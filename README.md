@@ -33,7 +33,7 @@ Perfect for students learning Python, math, or preparing for GCSE Computer Scien
 2. Clone the repository or download the .py file.
 3. Run the script in a terminal or IDE:
 
-   python circle_calculator.py
+   python main.py
 
 ---
 
